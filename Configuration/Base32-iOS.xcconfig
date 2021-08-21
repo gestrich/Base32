@@ -1,2 +1,2 @@
-#include "../Carthage/Checkouts/xcconfigs/iOS/iOS-Framework.xcconfig"
+#include "Common/iOS/iOS-Framework.xcconfig"
 #include "Base32.xcconfig"
